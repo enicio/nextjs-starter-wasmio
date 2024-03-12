@@ -1,0 +1,3 @@
+kind: wasmer.io/App.v0
+name: enicio-nextjs-starter-wasmio
+package: enicio/nextjs-starter-wasmio
